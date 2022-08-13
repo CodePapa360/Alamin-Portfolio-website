@@ -108,7 +108,7 @@ hr {
     grid-template-areas: 1fr;
     gap: 1rem;
     margin-bottom: 3rem;
-    margin: auto;
+    margin: 0 auto 2rem;
 }
 
 .skill-row__img-container {
