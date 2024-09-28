@@ -12,7 +12,12 @@
   </a>
 </div>
 
-<hr />
+<h2 align="center">
+  <a href="https://alamin-dev.vercel.app" target="_blank">
+    Portfolio 🖱️
+  </a>
+</h2>
+
 
 ## About Me 😎
 
@@ -29,22 +34,18 @@ I'm a dedicated Front-End Developer passionate about crafting exceptional web ex
 [CSS](https://developer.mozilla.org/en-US/docs/Web/css) •
 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript) •
 [TypeScript](https://www.typescriptlang.org/) •
+[Next.Js](https://nextjs.org/) •
 [React](https://react.dev/) •
 [React Query](https://tanstack.com/query/latest/) •
-[React Router](https://reactrouter.com/en/main) •
 [Redux](https://redux.js.org/) •
+[Framer Motion](https://www.framer.com/motion) •
 [Tailwind CSS](https://tailwindcss.com/) •
 [Styled Components](https://styled-components.com/) •
-[Sass](https://sass-lang.com/) •
-[Leaflet](https://leafletjs.com/)
+[Sass](https://sass-lang.com/)
 
 **Tools**:
 [Git](https://git-scm.com/) •
-[Supabase](https://supabase.com/) •
-[Figma](https://www.figma.com/) •
-[VS Code](https://code.visualstudio.com/) •
-[Webpack](https://webpack.js.org/) •
-[Vite](https://vitejs.dev/)
+[Supabase](https://supabase.com/)
 
 ## Projects 🚀
 
